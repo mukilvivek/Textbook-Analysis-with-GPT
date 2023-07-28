@@ -11,4 +11,4 @@ First enter your OpenAi key and the pathway to where your textbook is saved on y
 
 Imports
 
-You need to import openai and from PyPDF2 import PdfReader
+Import openai and from PyPDF2 import PdfReader
