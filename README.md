@@ -12,5 +12,7 @@ First enter your OpenAi key and the pathway to where your textbook is saved on y
 Imports
 
 openai
+
 from PyPDF2 import PdfReader
+
 import gradio as gr
